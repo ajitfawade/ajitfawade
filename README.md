@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 Thanks for visiting my github profile. I love coding in JavaScript.
 <!--
 **ajitfawade/ajitfawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: http://ajitfawade.in...
 - 😄 Pronouns: he/him...
 <!--- ⚡ Fun fact: ...-->
+[![HitCount](http://hits.dwyl.com/ajitfawade/ajitfawade.svg)](http://hits.dwyl.com/ajitfawade/ajitfawade)
