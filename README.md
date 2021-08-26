@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Node, React**
 
-- 🌱 I’m currently learning **GraphQL, React Hooks**
+- 🌱 I’m currently learning **AWS, GraphQL, React Hooks**
 
 - 👯 I’m looking to collaborate on **JavaScript**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ajitfawade.in](https://ajitfawade.in)
 
-- 💬 Ask me about **Best Practices in React and Node**
+<!-- - 💬 Ask me about **Best Practices in React and Node** -->
 
 - 📫 How to reach me **ajitfawade@gmail.com**
 
