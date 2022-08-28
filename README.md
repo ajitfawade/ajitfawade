@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Project Management**
 
-- 👨‍💻 All of my projects are available at [https://ajitfawade.in](https://ajitfawade.com)
+- 👨‍💻 All of my projects are available at [https://ajitfawade.com](https://ajitfawade.com)
 
 <!-- - 💬 Ask me about **Best Practices in React and Node** -->
 
