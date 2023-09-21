@@ -1,5 +1,7 @@
 ## Hi there, I'm Ajit Fawade 👋
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade)
+
 I'm a passionate FullStack JavaScript Developer with over 7 years of experience in building web applications and cloud solutions. Currently, I'm on a journey of #90DaysOfDevOps, exploring the intersection of development and operations to build robust and scalable systems.
 
 - 🔭 I'm currently working as a Senior Software Engineer at Globant, India.
