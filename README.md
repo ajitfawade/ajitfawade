@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ajit</h1>
-<h3 align="center">A passionate Fullstack JavaScript Developer from India</h3>
+## Hi there, I'm Ajit Fawade 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitfawade" alt="ajitfawade" /> </p>
+I'm a passionate FullStack JavaScript Developer with over 7 years of experience in building web applications and cloud solutions. Currently, I'm on a journey of #90DaysOfDevOps, exploring the intersection of development and operations to build robust and scalable systems.
 
-- 🔭 I’m currently working on **Node, React**
+- 🔭 I'm currently working as a Senior Software Engineer at Globant, India.
+- 🌱 I'm proficient in both frontend and backend technologies, specializing in React.js and Node.js.
+- 🚀 I have hands-on experience with databases like PostgreSQL and MongoDB.
+- ☁️ I've worked extensively with AWS cloud services, including AWS S3, AWS EC2, AWS API Gateway, AWS Cognito, AWS Secrets Manager, and AWS CloudWatch.
+- 💬 Ask me about anything related to JavaScript, web development, or cloud computing.
 
-- 🌱 I’m currently learning **AWS, GraphQL, React Hooks**
+### My Portfolio
 
-- 👯 I’m looking to collaborate on **JavaScript**
+You can find some of my latest projects and contributions on my [portfolio website](https://ajitfawade.com). Feel free to explore and get in touch.
 
-- 🤝 I’m looking for help with **Project Management**
+### Skills
 
-- 👨‍💻 All of my projects are available at [https://ajitfawade.com](https://ajitfawade.com)
+Here are some of the key technologies and tools I've mastered over the years:
 
-<!-- - 💬 Ask me about **Best Practices in React and Node** -->
+<!-- Technologies and Logos -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript (ES6+)" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="40" />
+  <img src="https://hapi.dev/img/icon_helmets_security.svg" alt="Hapi.js" height="40" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" height="40" />
+  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/graphql-226053.png" alt="GraphQL" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" alt="Docker" height="40" />
+  <img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="Webpack" height="40" />
+</div>
 
-- 📫 How to reach me **ajitfawade@gmail.com**
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS S3/EC2" height="40" />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" alt="Redux" height="40" />
+  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" height="40" />
+</div>
 
-<p align="left"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitfawade&layout=compact&hide=html" alt="ajitfawade" /></p>
+### Learning DevOps in #90DaysOfDevOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitfawade&show_icons=true" alt="ajitfawade" /></p>
+As part of my ongoing journey, I'm dedicated to learning DevOps through #90DaysOfDevOps. Currently, I'm focused on mastering the following skills:
 
-<p align="center">
-<a href="https://codepen.io/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://dev.to/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://twitter.com/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://codesandbox.com/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://fb.com/ajit.fawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ajit.fawade" height="30" width="30" /></a>
-<a href="https://instagram.com/ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajitfawade" height="30" width="30" /></a>
-<a href="https://medium.com/@ajitfawade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ajitfawade" height="30" width="30" /></a>
-</p>
+- 🐚 Linux Shell Scripting
+- 🐍 Python
+- 🐳 Docker
+- 🛠️ Jenkins
+- ☸️ Kubernetes
+- 🌐 Terraform
+- 📊 Grafana
+- ⚙️ Ansible
+
+Feel free to connect with me if you'd like to discuss DevOps practices or collaborate on related projects.
+
+### Contact Me
+
+- 📧 Email: ajitfawade@gmail.com
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ajitfawade/)
+- 📝 GitHub: [GitHub Profile](https://github.com/ajitfawade)
+
+Let's connect and collaborate on exciting projects!
