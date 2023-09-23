@@ -73,8 +73,10 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitfawade&show_icons=true&locale=en" alt="ajitfawade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitfawade&" alt="ajitfawade" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitfawade&show_icons=true&locale=en&layout=compact" alt="ajitfawade" /></p>
+
 
 Let's connect and collaborate on exciting projects!
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ajitfawade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bpradiip" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ajitfawade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bpradiip" /></a></p><br><br>  
