@@ -1,8 +1,12 @@
 ## Hi there, I'm Ajit Fawade 👋
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade)
+<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=ajitfawade&label=Profile%20Views&color=0e75b6&style=flat" alt="ajitfawade" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ajitfawade">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ajitfawade"></h1>
 
 I'm a passionate FullStack JavaScript Developer with over 7 years of experience in building web applications and cloud solutions. Currently, I'm on a journey of #90DaysOfDevOps, exploring the intersection of development and operations to build robust and scalable systems.
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
 - 🔭 I'm currently working as a Senior Software Engineer at Globant, India.
 - 🌱 I'm proficient in both frontend and backend technologies, specializing in React.js and Node.js.
@@ -57,6 +61,7 @@ As part of my ongoing journey, I'm dedicated to learning DevOps through #90DaysO
 - 📊 Grafana
 - ⚙️ Ansible
 
+
 Feel free to connect with me if you'd like to discuss DevOps practices or collaborate on related projects.
 
 ### Contact Me
@@ -65,4 +70,11 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ajitfawade/)
 - 📝 GitHub: [GitHub Profile](https://github.com/ajitfawade)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitfawade&show_icons=true&locale=en" alt="ajitfawade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitfawade&" alt="ajitfawade" /></p>
+
 Let's connect and collaborate on exciting projects!
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ajitfawade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bpradiip" /></a></p><br><br>
