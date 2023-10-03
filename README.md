@@ -18,6 +18,13 @@ I'm a passionate FullStack JavaScript Developer with over 7 years of experience 
 
 You can find some of my latest projects and contributions on my [portfolio website](https://ajitfawade.com). Feel free to explore and get in touch.
 
+### My Blog
+
+I share my insights, learnings and experiences on web development, DevOps, and more on my blogs:
+
+- [Medium Blog](https://medium.com/@ajitfawade)
+- [Hashnode Blog](https://blog.ajitfawade.com/)
+
 ### Skills
 
 Here are some of the key technologies and tools I've mastered over the years:
