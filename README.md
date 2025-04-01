@@ -4,7 +4,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ajitfawade">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ajitfawade"></h1>
 
-I'm a passionate FullStack JavaScript Developer with over 7 years of experience in building web applications and cloud solutions. Currently, I'm on a journey of #90DaysOfDevOps, exploring the intersection of development and operations to build robust and scalable systems.
+I'm a passionate FullStack JavaScript Developer with over 8 years of experience in building web applications and cloud solutions. Currently, I'm on a journey of #90DaysOfDevOps, exploring the intersection of development and operations to build robust and scalable systems.
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
